@@ -1,0 +1,24 @@
+.col-lg-4 {
+    text-align: center;
+  }
+
+  .card {
+    background-color: rgb(179, 160, 129);
+    margin-top: 1rem;
+  }
+
+  .card-header {
+    background-color: black;
+  }
+
+  img {
+    margin-top: 2rem;
+  }
+  .btn{
+    margin-top: 5px;
+  }
+
+  body {
+    background-color: rgb(194, 192, 192);
+    color: white;
+  }
